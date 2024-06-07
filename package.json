@@ -1,0 +1,27 @@
+{
+    "name": "eslint-config-espri-back",
+    "version": "1.0.0-beta.1",
+    "description": "ES Lint rules used by ESPRI Digital on front side VueJS app",
+    "main": "index.js",
+    "keywords": [
+        "eslint",
+        "eslintconfig"
+    ],
+    "type": "module",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+ssh://git@github.com/ESPRI-Digital/eslint-front.git"
+    },
+    "author": "ESPRI Digital",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/ESPRI-Digital/eslint-front/issues"
+    },
+    "homepage": "https://github.com/ESPRI-Digital/eslint-front#readme",
+    "dependencies": {
+        "@antfu/eslint-config": "^2.20.0"
+    }
+}
