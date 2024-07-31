@@ -29,8 +29,6 @@ export default antfu(
             'style/member-delimiter-style': ['error', { multiline: { delimiter: 'semi' } }],
             'ts/no-explicit-any': 'off',
             'ts/no-empty-function': 'off',
-            'ts/comma-dangle': ['error', 'always-multiline'],
-            'ts/semi': ['error', 'always'],
             'style/indent': [
                 'error',
                 4,

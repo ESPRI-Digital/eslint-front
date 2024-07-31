@@ -21,6 +21,9 @@
         "url": "https://github.com/ESPRI-Digital/eslint-front/issues"
     },
     "homepage": "https://github.com/ESPRI-Digital/eslint-front#readme",
+    "peerDependencies": {
+        "eslint": ">=8"
+    },
     "dependencies": {
         "@antfu/eslint-config": "^2.20.0"
     }
